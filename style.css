@@ -1,6 +1,7 @@
 body {
     /* font-family: 'Dancing Script', cursive; */
     font-family: 'Source Code Pro', monospace;
+    margin: 0;
 }
 
 h1 {
@@ -32,7 +33,6 @@ footer {
     text-align: center;
     background-color: #390040;
     color: #F9E7E7;
-    margin: 0;
     padding: 10px;
 }
 
